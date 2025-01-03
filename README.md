@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/3b7a6116-0e84-48bb-818e-d6e9cf6a994f)
+
+-------------------------------------------------------------------------------------------------
+
 # Jira:
 
 Jira is a popular project management and issue-tracking tool developed by Atlassian, widely used in DevOps for tracking work items, managing software development processes, and enhancing collaboration among teams. In the context of DevOps, Jira plays a significant role in ensuring smooth integration between development and operations teams, supporting agile methodologies, and enabling continuous delivery.
