@@ -1,5 +1,6 @@
-__Agile__
-In the context of **DevOps**, **Agile** plays a crucial role by aligning development and operations teams with the goal of delivering software quickly, reliably, and with continuous improvement. While Agile focuses on iterative development and collaboration, DevOps extends this mindset to include the entire software delivery pipeline, from development to production.
+- __Agile__  
+
+- In the context of **DevOps**, **Agile** plays a crucial role by aligning development and operations teams with the goal of delivering software quickly, reliably, and with continuous improvement. While Agile focuses on iterative development and collaboration, DevOps extends this mindset to include the entire software delivery pipeline, from development to production.
 
 Here's how **Agile** integrates into **DevOps** and enhances the DevOps lifecycle:
 
